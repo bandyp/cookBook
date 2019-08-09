@@ -1,0 +1,7 @@
+body {
+    background-image: url("food_background.jpg");
+    background-color: yellow;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
