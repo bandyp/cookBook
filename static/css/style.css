@@ -1,7 +1,26 @@
 body {
     background-image: url("food_background.jpg");
-    background-color: yellow;
+    background-color: green;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+}
+
+.box {
+    width: 100%;
+    text-align: center;
+}
+
+#search {
+    margin: 40vh auto;
+    display: inline-block;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: grey;
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 10vh;
 }
